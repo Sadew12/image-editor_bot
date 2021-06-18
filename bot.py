@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By @Patelboss
 from pyrogram import Client
 import os
 
