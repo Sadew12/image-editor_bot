@@ -14,7 +14,8 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @Pankaj_Patidar"""
+© @tech_marster & @sl_bot_zone"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
-    Movie_Channel = """⭕️<b>Filmykeedha : @Filmykeedha_ask </b>
+    group 1 = """⭕️<b>tech marster : https://t.me/tech_marster </b>
+    group 1 = """⭕️<b>tech marster : https://t.me/tech_marster </b>
